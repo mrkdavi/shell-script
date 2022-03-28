@@ -1,2 +1,2 @@
 # shell-script
-🐚 A repo where to save my shell script codes
+🐚 A repo where I save my shell script codes
